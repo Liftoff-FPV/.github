@@ -4,11 +4,13 @@
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1891780/capsule_616x353.jpg?t=1663164180" width="820" alt="Liftoff Drone Racing Simulator">
 </div>
 
-<div align="center">
-<a href="https://liftoff-fpv.github.io/.github">
-<img src="https://img.shields.io/badge/Скачать_Liftoff-FPV-Drone-Racing-Simulator-0078D6?style=for-the-badge&logo=steam&logoColor=white" alt="Скачать Liftoff">
-</a>
-</div>
+<p align="center">
+  <a href="https://liftoff-fpv.github.io/.github">
+    <img src="https://img.shields.io/badge/Скачать_для_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать для Windows">
+  </a>
+</p>
+
+
 
 ---
 
